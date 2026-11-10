@@ -1,0 +1,22 @@
+[
+  {"id":"eat","emoji":"🍽️"},
+  {"id":"drink","emoji":"💧"},
+  {"id":"toilet","image":"assets/images/toilet.jpg"},
+  {"id":"sleep","emoji":"😴"},
+  {"id":"play","emoji":"🧸"},
+  {"id":"help","emoji":"🆘"},
+  {"id":"sad","emoji":"😢"},
+  {"id":"happy","emoji":"😊"},
+  {"id":"stop","emoji":"✋"},
+  {"id":"no","emoji":"🚫"},
+  {"id":"love","emoji":"❤️"},
+  {"id":"pain","emoji":"🤕"},
+  {"id":"wake_up","image":"assets/images/wake_up.jpg"},
+  {"id":"breakfast","image":"assets/images/breakfast.jpg"},
+  {"id":"brush_teeth","image":"assets/images/brush_teeth.jpg"},
+  {"id":"wash_face","image":"assets/images/wash_face.jpg"},
+  {"id":"get_dressed","image":"assets/images/get_dressed.jpg"},
+  {"id":"make_bed","image":"assets/images/make_bed.jpg"},
+  {"id":"shoes","image":"assets/images/shoes.jpg"},
+  {"id":"school","image":"assets/images/school.jpg"}
+]
