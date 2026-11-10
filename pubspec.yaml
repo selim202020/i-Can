@@ -1,0 +1,21 @@
+name: aac_tap_talk
+description: Bilingual (Arabic/English) tap-to-speak AAC app for children. Fully offline.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.0.2
+  shared_preferences: ^2.2.3
+  path_provider: ^2.1.3
+  image_picker: ^1.1.2
+  record: ^5.1.2
+  audioplayers: ^6.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/items.json
+    - assets/i18n/
+    - assets/images/
